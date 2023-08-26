@@ -1,0 +1,32 @@
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 50%;
+    margin: 0.3em;
+    cursor: pointer;
+}
+
+.wrapper {
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.orange {
+    background-color: #FF9500;
+    color: white;
+}
+
+.gray {
+    background-color: #505050;
+    color: white;
+}
+
+.resultado {
+    color: white;
+    text-align: right;
+    margin-right: 1em;
+    font-size: 3.5em;
+}
